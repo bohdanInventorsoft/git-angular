@@ -1,1 +1,1 @@
-asfsdf
+console.log(123)
